@@ -1,0 +1,1 @@
+# Spinal-Condition-Classification-using-SVM
